@@ -1,0 +1,7 @@
+.pane {
+    -fx-background-color: white;
+}
+
+.pane .display-mode-button {
+    -fx-padding: 8
+}
